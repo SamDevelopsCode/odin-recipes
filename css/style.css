@@ -1,0 +1,33 @@
+body {
+    font: Arial, Verdana, Tahoma, "Times New Roman", sans-serif;
+    background-color: rgb(48, 46, 46);
+    color: white;
+}
+
+.recipelist {
+    color: red;
+    text-align: left;
+    font-size: x-large;
+}
+.recipelist.text {
+    color: red;
+}
+
+.recipeimage {
+    height: 400px;
+    width: 600px;
+}
+
+h1 {
+    font: bold;
+    font-size: 22px;
+}
+
+h3 {
+    color: blueviolet;
+    font-size: 18px;
+}
+
+h4 {
+    color: blue;
+}
